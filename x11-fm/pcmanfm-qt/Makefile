@@ -1,0 +1,32 @@
+PORTNAME=	pcmanfm-qt
+PORTVERSION=	2.0.0
+CATEGORIES=	x11-fm
+MASTER_SITES=	LXQT
+
+MAINTAINER=	jsm@FreeBSD.org
+COMMENT=	LXQt file manager
+WWW=		https://github.com/lxde/pcmanfm-qt
+
+LICENSE=	GPLv2
+
+LIB_DEPENDS=	libmenu-cache.so:x11/menu-cache \
+		libfm-qt6.so:x11/libfm-qt6 \
+		libexif.so:graphics/libexif
+RUN_DEPENDS=    lxqt-menu-data>=2.0.0:x11/lxqt-menu-data
+
+USE_GITHUB=	yes
+GH_ACCOUNT=	lxqt
+GH_PROJECT=	${PORTNAME:S/6//}
+GH_TAGNAME=     f348262
+
+USES=		cmake compiler:c++17-lang gnome kde:6 \
+		gettext-runtime localbase:ldflags perl5 pkgconfig qt:6 \
+		tar:xz xorg
+USE_PERL5=	build
+USE_GNOME=	glib20
+USE_QT=		base:run tools:build svg
+USE_KDE=	layer-shell-qt
+USE_LXQT=	buildtools libfmqt6
+USE_XORG=	xcb
+
+.include <bsd.port.mk>
