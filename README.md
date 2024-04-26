@@ -1,2 +1,2 @@
 # lxqt2-freebsd
-lxqt ports on FreeBSD
+FreeBSD ports of LXQT 2.x
