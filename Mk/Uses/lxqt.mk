@@ -11,7 +11,7 @@
 # globalkeys			- Keyboard shortcuts daemon
 # libfmqt / libfmqt6		- Libfm Qt5/Qt6 bindings
 # lxqt				- LXQt core library
-# qtxdg/qt6xdg			- Qt5/Qt6 implementation of freedesktop.org xdg specs
+# qtxdg / qt6xdg		- Qt5/Qt6 implementation of freedesktop.org xdg specs
 # sysstat / sysstat-qt6		- Qt5/Qt6 library to query system information
 #
 # MAINTAINER: ports@FreeBSD.org
