@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	x11
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt tool used to launch programs quickly
 WWW=		https://lxqt-project.org
 

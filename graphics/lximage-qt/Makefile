@@ -1,9 +1,9 @@
 PORTNAME=	lximage-qt
-PORTVERSION=	2.0.0
+PORTVERSION=	2.0.1
 CATEGORIES=	graphics
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Image viewer
 WWW=		https://github.com/lxde/lximage-qt
 

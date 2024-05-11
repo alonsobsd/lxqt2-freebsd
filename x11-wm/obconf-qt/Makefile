@@ -3,7 +3,7 @@ PORTVERSION=	0.16.4
 CATEGORIES=	x11-wm
 MASTER_SITES=	LXQT/${PORTNAME}
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Qt port of preferences manager for Openbox
 WWW=		https://github.com/lxqt/obconf-qt
 

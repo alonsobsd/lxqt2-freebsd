@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	sysutils
 DIST_SUBDIR=	lxqt
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt system settings center
 WWW=		https://lxqt-project.org
 

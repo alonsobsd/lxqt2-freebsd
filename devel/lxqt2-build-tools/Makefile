@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	devel
 MASTER_SITES=   LXQT/${PORTNAME:S/2//}
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Helpers CMake modules for LXQt2
 WWW=		https://github.com/lxqt/lxqt-build-tools
 

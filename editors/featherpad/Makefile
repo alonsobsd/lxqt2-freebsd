@@ -3,7 +3,7 @@ PORTVERSION=		1.5.0
 DISTVERSIONPREFIX=	V
 CATEGORIES=		editors
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Lightweight Qt6 plain-text editor
 WWW=		https://github.com/tsujan/FeatherPad
 

@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	sysutils
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt system integration plugin for Qt6
 WWW=		https://lxqt-project.org
 

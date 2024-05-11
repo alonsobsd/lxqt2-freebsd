@@ -4,7 +4,7 @@ CATEGORIES=	x11
 MASTER_SITES=	LXQT
 DIST_SUBDIR=	lxqt
 
-MAINTAINER=	wen@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Freedesktop.org compliant menu files for lxqt
 WWW=		https://lxqt-project.org
 

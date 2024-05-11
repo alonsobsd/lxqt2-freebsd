@@ -3,7 +3,7 @@ PORTVERSION=	1.4.0
 CATEGORIES=	x11
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Lightweight Qt-based terminal emulator
 WWW=		https://github.com/lxqt/qterminal
 

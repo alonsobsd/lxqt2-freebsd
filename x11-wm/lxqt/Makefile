@@ -2,7 +2,7 @@ PORTNAME=	lxqt
 PORTVERSION=	2.0.0
 CATEGORIES=	x11-wm
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Meta-port for the LXQt Desktop
 WWW=		https://lxqt-project.org
 

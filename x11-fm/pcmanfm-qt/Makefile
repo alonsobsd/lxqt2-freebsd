@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	x11-fm
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt file manager
 WWW=		https://github.com/lxde/pcmanfm-qt
 

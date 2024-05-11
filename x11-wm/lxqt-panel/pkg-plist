@@ -78,6 +78,7 @@ lib/lxqt-panel/libsysstat.so
 %%LXQT_SHAREDIR%%/panel/qeyes-types/Tango/tango-eye.png
 %%LXQT_SHAREDIR%%/panel/qeyes-types/Tango/tango-pupil.png
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_ar.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_bg.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_ca.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_et.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_fi.qm
@@ -93,8 +94,10 @@ lib/lxqt-panel/libsysstat.so
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_pl.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_pt.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_ru.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_sk.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_sr.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_tr.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/colorpicker/colorpicker_zh_CN.qm
 %%CPULOAD%%%%LXQT_TRANSLATIONS%%/lxqt-panel/cpuload/cpuload_ar.qm
 %%CPULOAD%%%%LXQT_TRANSLATIONS%%/lxqt-panel/cpuload/cpuload_arn.qm
 %%CPULOAD%%%%LXQT_TRANSLATIONS%%/lxqt-panel/cpuload/cpuload_ast.qm
@@ -553,6 +556,7 @@ lib/lxqt-panel/libsysstat.so
 %%MOUNT%%%%LXQT_TRANSLATIONS%%/lxqt-panel/mount/mount_zh_CN.qm
 %%MOUNT%%%%LXQT_TRANSLATIONS%%/lxqt-panel/mount/mount_zh_TW.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_ar.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_bg.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_et.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_fi.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_fr.qm
@@ -564,9 +568,12 @@ lib/lxqt-panel/libsysstat.so
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_oc.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_pa.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_pl.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_pt.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_ru.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_sk.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_sr.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_tr.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/qeyes/qeyes_zh_CN.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/quicklaunch/quicklaunch_ar.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/quicklaunch/quicklaunch_arn.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/quicklaunch/quicklaunch_ast.qm
@@ -737,6 +744,7 @@ lib/lxqt-panel/libsysstat.so
 %%LXQT_TRANSLATIONS%%/lxqt-panel/statusnotifier/statusnotifier_sk_SK.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/statusnotifier/statusnotifier_tr.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/statusnotifier/statusnotifier_uk.qm
+%%LXQT_TRANSLATIONS%%/lxqt-panel/statusnotifier/statusnotifier_zh_CN.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/statusnotifier/statusnotifier_zh_TW.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/sysstat/sysstat_ar.qm
 %%LXQT_TRANSLATIONS%%/lxqt-panel/sysstat/sysstat_arn.qm

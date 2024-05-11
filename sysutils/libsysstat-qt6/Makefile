@@ -3,7 +3,7 @@ PORTVERSION=	1.0.0
 CATEGORIES=	sysutils
 PKGNAMESUFFIX=	-qt6
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Library used to query system info and statistics ported to qt6
 WWW=		https://lxqt-project.org
 

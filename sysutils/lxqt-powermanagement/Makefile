@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	sysutils
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt power management
 WWW=		https://github.com/lxqt/lxqt-powermanagement
 

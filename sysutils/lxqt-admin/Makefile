@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	sysutils
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	System administration tool for the LXQt desktop
 WWW=		https://lxqt-project.org
 
@@ -11,7 +11,7 @@ LICENSE=	LGPL21+
 
 LIB_DEPENDS=	libpolkit-qt6-core-1.so:sysutils/polkit-qt-1@qt6
 
-USES=		cmake compiler:c++11-lang gnome kde:6 localbase lxqt:2 \
+USES=		cmake compiler:c++17-lang gnome kde:6 localbase lxqt:2 \
 		perl5 pkgconfig tar:xz qt:6 xorg
 USE_PERL5=	build
 USE_QT=		base:run tools:build svg

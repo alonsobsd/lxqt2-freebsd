@@ -3,7 +3,7 @@ PORTVERSION=	1.0.0
 CATEGORIES=	archivers
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Qt6 file archiver
 WWW=		https://github.com/lxqt/lxqt-archiver
 

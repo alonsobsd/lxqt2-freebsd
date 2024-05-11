@@ -4,7 +4,7 @@ PORTREVISION=	1
 CATEGORIES=	x11-toolkits
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Terminal widget for QTerminal
 WWW=		https://github.com/lxde/qtermwidget
 

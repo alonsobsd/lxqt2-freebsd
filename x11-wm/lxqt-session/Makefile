@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	x11-wm
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Session manager component for LXQt
 WWW=		https://github.com/lxqt/lxqt-session/
 

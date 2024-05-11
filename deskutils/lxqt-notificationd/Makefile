@@ -1,9 +1,9 @@
 PORTNAME=	lxqt-notificationd
-PORTVERSION=	2.0.0
+PORTVERSION=	2.0.1
 CATEGORIES=	deskutils
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt notification daemon
 WWW=		https://lxqt-project.org
 

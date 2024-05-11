@@ -3,7 +3,7 @@ PORTVERSION=	0.1.0
 CATEGORIES=	devel
 MASTER_SITE=	LXQT/${PORTNAME}
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Qt6 implementation of the DBusMenu protocol
 WWW=		https://github.com/lxqt/libdbusmenu-lxqt
 

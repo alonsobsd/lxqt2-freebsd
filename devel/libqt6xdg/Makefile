@@ -3,7 +3,7 @@ PORTVERSION=	4.0.0
 CATEGORIES=	devel
 MASTER_SITES=	LXQT/${PORTNAME:S/6//}
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Qt6 implementation of freedesktop.org xdg specs
 WWW=		https://github.com/lxde/libqtxdg
 

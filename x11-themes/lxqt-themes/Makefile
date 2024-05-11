@@ -3,7 +3,7 @@ PORTVERSION=	2.0.0
 CATEGORIES=	x11-themes
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Themes for the LXQt desktop
 WWW=		https://lxqt-project.org
 

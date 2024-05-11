@@ -4,7 +4,7 @@ PORTREVISION=	2
 CATEGORIES=	x11
 MASTER_SITES=	LXQT/${PORTNAME}
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Controls compton settings
 WWW=		https://github.com/lxqt/compton-conf
 

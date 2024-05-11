@@ -3,13 +3,13 @@ PORTVERSION=	2.0.0
 CATEGORIES=	security
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	LXQt GUI dialog for OpenSSH authentication
 WWW=		https://lxqt-project.org
 
 LICENSE=	LGPL21+
 
-USES=		cmake compiler:c++11-lang gettext-runtime lxqt:2 perl5 \
+USES=		cmake compiler:c++17-lang gettext-runtime lxqt:2 perl5 \
 		pkgconfig qt:6 tar:xz
 USE_PERL5=	build
 USE_QT=		base:run tools:build

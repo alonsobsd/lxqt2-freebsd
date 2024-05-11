@@ -1,9 +1,9 @@
 PORTNAME=	lxqt-panel
-PORTVERSION=	2.0.0
+PORTVERSION=	2.0.1
 CATEGORIES=	x11-wm
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	Panel for the LXQt2 desktop
 WWW=		https://lxqt-project.org
 

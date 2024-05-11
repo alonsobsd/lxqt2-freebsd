@@ -3,13 +3,13 @@ PORTVERSION=	4.0.0
 CATEGORIES=	sysutils
 MASTER_SITES=	LXQT
 
-MAINTAINER=	jsm@FreeBSD.org
+MAINTAINER=	lxqt@FreeBSD.org
 COMMENT=	User tools for libqt6xdg
 WWW=		https://github.com/lxqt/qtxdg-tools
 
 LICENSE=	LGPL21+
 
-USES=		cmake compiler:c++14-lang gnome pkgconfig lxqt:2 qt:6 tar:xz
+USES=		cmake compiler:c++17-lang gnome pkgconfig lxqt:2 qt:6 tar:xz
 USE_GNOME=	glib20
 USE_QT=		tools:build base:run
 USE_LXQT=	buildtools2 qt6xdg
