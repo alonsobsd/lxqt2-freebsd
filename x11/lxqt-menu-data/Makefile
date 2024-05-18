@@ -11,8 +11,9 @@ WWW=		https://lxqt-project.org
 LICENSE=	LGPL21+
 LICENSE_FILE=	${WRKSRC}/LICENSE
 
-USES=		cmake lxqt:2 tar:xz
+USES=		cmake lxqt:2 qt:6 tar:xz
 
+USE_QT=		tools:build
 USE_LXQT=	buildtools2
 
 .include <bsd.port.mk>
