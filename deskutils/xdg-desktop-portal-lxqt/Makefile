@@ -8,10 +8,7 @@ WWW=		https://github.com/flatpak/xdg-desktop-portal
 
 LICENSE=	LGPL21
 
-USE_GITHUB=     yes
-GH_ACCOUNT=     lxqt
-
-USES=		cmake kde:6 lxqt:2 pkgconfig qt:6
+USES=		cmake kde:6 lxqt:2 pkgconfig qt:6 tar:xz
 USE_KDE=	windowsystem
 USE_LXQT=	libfmqt6
 USE_QT=		base:run tools:build

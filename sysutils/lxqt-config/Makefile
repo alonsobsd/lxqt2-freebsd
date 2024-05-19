@@ -26,4 +26,6 @@ USE_XORG=	ice sm x11 xcb xcursor xext xfixes xrandr xi
 USE_LDCONFIG=	yes
 USE_LXQT=	buildtools2 lxqt
 
+CXXFLAGS+=	-Wno-c++11-narrowing
+
 .include <bsd.port.mk>

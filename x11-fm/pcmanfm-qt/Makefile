@@ -26,7 +26,7 @@ USE_PERL5=	build
 USE_GNOME=	glib20
 USE_QT=		base:run tools:build svg
 USE_KDE=	layer-shell-qt
-USE_LXQT=	buildtools libfmqt6
+USE_LXQT=	buildtools2 libfmqt6
 USE_XORG=	xcb
 
 .include <bsd.port.mk>
