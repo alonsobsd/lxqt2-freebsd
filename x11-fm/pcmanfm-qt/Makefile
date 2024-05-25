@@ -14,13 +14,8 @@ LIB_DEPENDS=	libmenu-cache.so:x11/menu-cache \
 		libexif.so:graphics/libexif
 RUN_DEPENDS=    lxqt-menu-data>=2.0.0:x11/lxqt-menu-data
 
-USE_GITHUB=	yes
-GH_ACCOUNT=	lxqt
-GH_PROJECT=	${PORTNAME:S/6//}
-GH_TAGNAME=     f348262
-
-USES=		cmake compiler:c++17-lang gnome kde:6 \
-		gettext-runtime localbase:ldflags perl5 pkgconfig qt:6 \
+USES=		cmake compiler:c++17-lang gnome kde:6 gettext-runtime \
+		localbase:ldflags lxqt:2 perl5 pkgconfig qt:6 \
 		tar:xz xorg
 USE_PERL5=	build
 USE_GNOME=	glib20
